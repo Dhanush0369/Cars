@@ -6,4 +6,4 @@ _Have a go Rest API service which provides access to a car store. Have written E
 ## Running API Service Locally
 
 <p align="center"> <img src="running_go_server.png"/>API service working properly.</p>
-<p align="center"> <img src="test_results.png"/>Results after performing a E2E test</p>
+<p align="center"> <img src="test_result.png"/>Results after performing a E2E test</p>
