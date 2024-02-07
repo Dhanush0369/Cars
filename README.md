@@ -1,4 +1,4 @@
-<h1 align="center">Tesing in Ginkgo and Gomega</h1>
+<h1 align="center">Testing in Ginkgo and Gomega</h1>
 <br/>
 
 _Have a go Rest API service which provides access to a car store. Have written E2E tests using Ginkgo and Gomega._
